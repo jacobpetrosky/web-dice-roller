@@ -2,7 +2,7 @@
 
 Author: Jacob Petrosky
 
-Project: Server Dice Roller with Node.js
+Project: Web Dice Roller
 
 Credits: n/a
 
